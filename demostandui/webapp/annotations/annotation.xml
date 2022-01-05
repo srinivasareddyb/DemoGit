@@ -23,6 +23,10 @@
                             <PropertyValue Property="Value" Path="QuantityPerUnit"/>
                             <Annotation Term="UI.Importance" EnumMember="UI.ImportanceType/High"/>
                         </Record>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Value" Path="UnitPrice"/>
+                            <Annotation Term="UI.Importance" EnumMember="UI.ImportanceType/High"/>
+                        </Record>
                     </Collection>
                 </Annotation>
             </Annotations>
